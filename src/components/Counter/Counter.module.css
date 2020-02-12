@@ -1,0 +1,27 @@
+.counter {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  margin: 0 auto;
+  height: 80px;
+  width: 80px;
+  border: 2px solid black;
+  position: relative;
+}
+
+.btn {
+  height: 30px;
+  width: 30px;
+  border-radius: 12px;
+  border: 1px solid red;
+  outline: none;
+  cursor: pointer;
+  margin: 0px 2px 2px;
+}
+
+.span {
+  position: absolute;
+  top: 5px;
+  color: red;
+  font-size: 35px;
+}

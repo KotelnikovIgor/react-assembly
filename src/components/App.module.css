@@ -1,0 +1,20 @@
+.modal_btn {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 0;
+  width: 100vh;
+  height: 100vh;
+}
+
+.btn {
+  margin: 0 auto;
+  border: 1px solid aqua;
+  cursor: pointer;
+  outline: none;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  color: blue;
+  background-color: whitesmoke;
+}
